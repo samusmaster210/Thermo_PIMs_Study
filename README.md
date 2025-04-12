@@ -1,1 +1,1 @@
-# Thermo_PIMs_Study
+# Qst Thermodynamics of PIMs Study
