@@ -1,1 +1,1 @@
-# Qst Thermodynamics of PIMs Study
+# Predicting Qst Thermodynamics for PIMs
