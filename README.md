@@ -13,7 +13,7 @@ The features and labels for the 75 PIM materials used for this study can be foun
 # Code Availability
 The scripts used to predict the isosteric heat of adsorption for PIMs at 298K can be found in the directory "Scripts". All code was written in Python version 3.9.22 using Jupyter Notebooks version 4.4.0. It is highly recommended to create a new conda environment for replicating the study's results. This can be done by:
 
-<pre><code>`conda create -n ENV_NAME`</code></pre>
+<pre><code>conda create -n ENV_NAME</code></pre>
 
 **Necessary Packages**
 Below are the necessary packages to execute the scripts and
