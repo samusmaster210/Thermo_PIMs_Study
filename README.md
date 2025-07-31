@@ -29,7 +29,9 @@ Below is a list of packages used during this study for ease of replicability:
 
 <pre><code>conda install conda-forge::catboost</pre></code>
 
+<pre><code>conda install conda-forge::pandas</pre></code>
 
+<pre><code>conda install conda-forge::numpy</pre></code>
 
 
 
