@@ -27,7 +27,7 @@ Below is a list of packages used during this study for ease of replicability:
 
 <pre><code>conda install conda-forge::xgboost</pre></code>
 
-<code><pre>conda install conda-forge::catboost</pre></code>
+<pre><code>conda install conda-forge::catboost</pre></code>
 
 
 
