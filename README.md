@@ -8,7 +8,7 @@ Porous polymers, particularly polymers of intrinsic microporosity (PIMs), combin
 # Dataset Availability
 The original dataset used for this study can be found in: Raghuram Thyagarajan; Sholl, D. S. A Database of Porous Rigid Amorphous Materials. Chemistry of Materials 2020, 32 (18), 8020–8033. DOI:https://doi.org/10.1021/acs.chemmater.0c03057
 
-The features and labels for the 75 PIM materials used for this study can be found in the directory: "Dataset_labels". Additionally, the individual and aggregated SHAP scores are located in the SHAP_Results folder.
+The features and labels for the 75 PIM materials used for this study can be found in the directory: "Dataset_labels". Additionally, the individual and aggregated SHAP scores are located in the "SHAP_Results" folder.
 
 # Code Availability
 The scripts used to predict the isosteric heat of adsorption for PIMs at 298K can be found in the directory "Scripts". All code was written in Python version 3.9.22 using Jupyter Notebooks version 4.4.0. The AI-specific packages can be easily installed with conda-forge. It is highly recommended to create a new conda environment for replicating the study's results. This can be done by:
