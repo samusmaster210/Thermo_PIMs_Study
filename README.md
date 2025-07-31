@@ -6,7 +6,7 @@ Porous polymers, particularly polymers of intrinsic microporosity (PIMs), combin
 
 
 # Dataset Availability
-The original dataset used for this study can be found in- Raghuram Thyagarajan; Sholl, D. S. A Database of Porous Rigid Amorphous Materials. Chemistry of Materials 2020, 32 (18), 8020–8033. DOI:https://doi.org/10.1021/acs.chemmater.0c03057
+The original dataset used for this study can be found in: Raghuram Thyagarajan; Sholl, D. S. A Database of Porous Rigid Amorphous Materials. Chemistry of Materials 2020, 32 (18), 8020–8033. DOI:https://doi.org/10.1021/acs.chemmater.0c03057
 
 The features and labels for the 75 PIM materials used for this study can be found in the directory: "Dataset_labels". Additionally, the individual and aggregated SHAP scores are located in the SHAP_Results folder.
 
