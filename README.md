@@ -16,5 +16,8 @@ The scripts used to predict the isosteric heat of adsorption for PIMs at 298K ca
 <pre><code>conda create -n ENV_NAME python=3.9.22</code></pre>
 
 
+Include conda forge install for all models
+
+
 
 
