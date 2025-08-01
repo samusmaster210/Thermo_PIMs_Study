@@ -4,3 +4,5 @@ This folder contains the scripts used in this study to benchmark various AI algo
 <pre><code>conda activate "ENV_NAME"</code></pre>
 
 <pre><code>python "FILE_NAME.py" python=3.9.22</code></pre>
+
+When the code is used, a new directory is created that stores the hyperparameters and model results. 
