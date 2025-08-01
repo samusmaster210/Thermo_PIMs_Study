@@ -1,1 +1,1 @@
-This folder houses the scripts used during this study to benchmark various AI algorithms on their ability to predict PIMs isosteric heats of adsorption with CO<sub>2</sub>. 
+This folder contains the scripts used in this study to benchmark various AI algorithms for predicting the isosteric heats of adsorption of PIMs with CO<sub>2</sub>.  
