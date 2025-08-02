@@ -4,6 +4,8 @@ PIM_ExpFeatures.csv contains the physicochemical features for each of the 75 PIM
 
 The first column of PIM_ExpFeatures.csv contains each material's ID, and the last column is the SMILES string for which that material originates. These ID numbers can be cross-referenced with the structures in Figure 4 of this study (Thermodynamic Labeling Enables CO<sub>2</sub> Prediction in Polymers of Intrinsic Microporosity Under Small Data Constraints). The second to the seventh columns contain the atom counts (C, H, O, N, F, S) for each feature, and the System_Size feature in the eighth column is their sum. Columns 9-11 are the materials' supercell angles. 
 
-Density describes the packing of each simulated polymer and is crucial in defining the material's thermodynamic interactions with CO<sub>2</sub>.  
+Density describes the packing of each simulated polymer and is crucial in defining the material's thermodynamic interactions with CO<sub>2</sub>. The pore limiting diameter (PLD) and limiting cavity diameter (LCD) are important properties for inderstanding the size exclusion properties of membranes.
+
+as it is the largest  
 
 
