@@ -26,7 +26,7 @@ scaler = MinMaxScaler()
 features = scaler.fit_transform(features)
 
 # Define optimization space
-space = [Real(1e-6, 1e2, prior="log-uniform", name="alpha")]
+space = [Real(1e-6, 1e1, prior="log-uniform", name="alpha")]
 
 def objective(params):
     alpha = params[0]
