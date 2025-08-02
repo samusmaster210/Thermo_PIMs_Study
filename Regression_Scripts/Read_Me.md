@@ -5,4 +5,4 @@ This folder contains the scripts used in this study to benchmark various AI algo
 
 <pre><code>python "FILE_NAME.py" python=3.9.22</code></pre>
 
-When the code is used, a new directory is created that stores the hyperparameters and model results. 
+When the code is used, a new directory is created that stores the hyperparameters and model results. The workflows for the various machine learning models are largely identical, and follow the same procedural preprocessing and handling of the materials' features.  
