@@ -7,4 +7,6 @@ This folder contains the scripts used in this study to benchmark various AI algo
 
 The workflows for the various machine learning models are largely identical, and follow the same procedural preprocessing and handling of the materials' features. Below the scripts imports, a new directory is created that stores the hyperparameters and model results. This helps organize each model's data for ease on the user. Next, the features are defined that will be used to represent each structure for the algorithms. The labels used for each material were determined using Grand Connonical Monte Carlo Simulations by Drs. Raghuram Thyagarajan and David Sholl in their work: https://doi.org/10.1021/acs.chemmater.0c03057. Additionally, the isosteric heats of adsorption used are specified for carbon dioxide gas at 298K. 
 
-Scikit Learn's MinMaxScaler  
+Scikit Learn's MinMaxScaler was used to normalize the features, so that they had comparable magnitudes. Bayesian optimization was used to determine the optimal hyperparameters for each model. 
+
+The training/testing construction used was chosen based on the limited dataset. Varying the KFold random state or the amount of partitions resulted in a model whose results are comparable to those reported in Table XXX of this study. Section XX of this study's Supporting Information contains the performance metrics for altering the KRR (rbf)'s training/testing partitions and its random state seed.    
